@@ -1,0 +1,5 @@
+/*
+
+hkhfewke
+*/
+int[] mas = {1,2]
